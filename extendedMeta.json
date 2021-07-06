@@ -1,11 +1,11 @@
 {
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
-        "url_png_icon_64x64": "https://github.com/Deechan7/DEE_icon.git",
-        "url_png_logo": "https://github.com/Deechan7/DEE_icon.git",
+        "url_png_icon_64x64": "https://user-images.githubusercontent.com/80184004/124670071-6a2f4e80-deee-11eb-8f06-4cd11abe2092.png",
+        "url_png_logo": "https://user-images.githubusercontent.com/80184004/124670071-6a2f4e80-deee-11eb-8f06-4cd11abe2092.png",
         "location": "London, England",
         "social": {
-            "twitter_handle": "deisensei",
+            "twitter_handle": "AdapoolsO",
             "telegram_handle": "adapools_ops",
             "facebook_handle": "",
             "youtube_handle": "",
@@ -21,10 +21,10 @@
             "company_id": "123456789",
             "vat_id": "GB123456789"
         },
-        "about": {畑違いの職人がCardanoへの想いを馳せ奮励努力しプール構築！IOG選抜に大抜擢されました。 100のプールしか選ばれない中で選んでいただき本当に光栄です。 💝Happy staking💝を合言葉にADAステーキング促進中。 CSJG（Cardano SPO's Japan Guild）所属し、常に先頭を走り続けるSPOの先輩方と一緒に誠実なプール運営をしています。災害、治安の要素を考慮し、シンガポール、シドニーにノードを構築。安全な運営をしています。 SPOとしての責務（継続的なセットアップ、実行、運用、サーバ運用、強化、保守）を果たします。 カルダノノードを安定させるためのアップグレードを行いました。 手数料を0.75％にさせていただきました。 数あるプールの中から委任先に選んでいただけたらそんな光栄な事はありません。 日本、そしてカルダノが大好きな皆様、カルダノの技術とブロックチェーンの未来を信じて前進しましょう。 A craftsman from another field fell in love with the greatness of Cardano and created the Cardano pool! I was chosen as an IOG choice. I am very honored. We will expand Cardano with the slogan 💝 Happy staking 💝. I belong to CSJG (Cardano SPO’s Japan Guild) and manage the pool in good faith with the SPO seniors who are always at the forefront.Constructed nodes in Singapore and Sydney in consideration of disaster and security factors. We operate safely. As an SPO, I am always responsible. Performs execution, operation, server operation, expansion, and maintenance. We have upgraded to stabilize the Cardano node. The fee will be 0.75%. Everyone who loves Japan and Cardano, Believe in Cardano's technology and the future of blockchain and move forward‼ Please delegate by all means.
-            "me": "DEE",
-            "server": "AWS Singapore and Sydney.",
-            "company": "Japan"
+        "about": {
+            "me": "...",
+            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
+            "company": "..."
         }
     },
     "my-pool-ids": {
